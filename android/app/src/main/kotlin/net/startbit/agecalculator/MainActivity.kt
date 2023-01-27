@@ -1,4 +1,4 @@
-package com.example.job_age_calculator
+package net.startbit.agecalculator
 
 import io.flutter.embedding.android.FlutterActivity
 
